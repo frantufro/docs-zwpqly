@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5mqyer.3dollarcasino.com/sitemap.xml
